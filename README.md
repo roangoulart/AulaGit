@@ -5,3 +5,4 @@
 - Lógica de Programação ✅
 - HTML ✅
 - CSS ✅
+- JavaScript ✅
